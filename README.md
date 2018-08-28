@@ -1,3 +1,3 @@
 # Assignments
 Assignments for CSCD205: C++ Programming
-nothing important here.
+Nothing important in this file.
